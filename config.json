@@ -1,0 +1,34 @@
+{
+    "token": "",
+    "prefix": "?",
+    "status": "paypal invoices!",
+
+    "paypal_info": {
+        "option": "live",
+        "client": "",
+        "secret": "",
+        "email": "rukky.ohworode@gmail.com",
+        "note": "some notes go here",
+        "tos": "cool tos goes here",
+        "logo": "must be a png"
+    },
+
+    "database": {
+        "host": "remotemysql.com",
+        "user": "cq5mtoAmK2",
+        "password": "FTAsL5PdvH",
+        "name": "cq5mtoAmK2"
+    },
+
+    "embed": {
+        "color": "#000000",
+        "footer": "Made by RiftRealms",
+        "logo": ""
+    },
+
+
+    "perms_info": {
+        "support_roles": ["690397235350995004"]
+    }
+
+}
